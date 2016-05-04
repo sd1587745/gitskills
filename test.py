@@ -58,6 +58,3 @@ for t in triangles():
 print([5] + [4,6])
 
 print('hello world')
-I like it
-
-this is good
